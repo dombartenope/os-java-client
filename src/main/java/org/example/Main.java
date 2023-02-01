@@ -13,8 +13,8 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Main {
-    private static final String appId = "c78671ca-6d42-4d5b-98c1-f0775e95d0f4";
-    private static final String appKeyToken = "ZDc2MTg1MWItMjFhMC00NTdhLThiNzctZTcxZTdjNjkyNDNl";
+    private static final String appId = "APP ID";
+    private static final String appKeyToken = "YOUR API KEY";
     private static final String userKeyToken = "YOUR_USER_TOKEN";
 
     private static Notification createNotification() {
